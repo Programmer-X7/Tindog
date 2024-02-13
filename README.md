@@ -30,7 +30,7 @@ Contributions are always welcome!
 If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 ## License
 
-This project is licensed under the MIT License - see the **LICENSE.md** file for details.
+This project is licensed under the MIT License - see the **LICENSE** file for details.
 ## Acknowledgements
 
 - Thanks to Dr. Angela Yu & Udemy for this amazing project.
