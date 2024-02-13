@@ -1,5 +1,5 @@
 
-# Tindog - Tinder for Dogs
+# Tindog - Tinder for Dogs 🐕🐾
 
 Welcome to Tindog, the pawfect place for your dogs to find their canine companions! Tindog is a fun and adorable Tinder clone specifically designed for dogs, where they can sniff out potential playmates and make new doggy friends. This project aims to bring joy to both dogs and their owners by fostering social connections.
 
